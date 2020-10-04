@@ -57,13 +57,13 @@
 
 
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.joshuamac40.vercel.app/api?username=JoshuaMac40&show_icons=true&hide_border=true" />
-
-</details>
 <img align="left" alt="Joshua Git Stats" src="https://github-readme-stats.joshuamac40.vercel.app/api?username=JoshuaMac40&show_icons=true&theme=tokyonight"/>
+
+
+<img align= "left" alt="language card" src="https://github-readme-stats.joshuamac40.vercel.app/api/top-langs/?username=JoshuaMac40&langs_count=8)](https://github.com/JoshuaMac40/github-readme-stats"/>
 
 [twitter]:https://twitter.com/JoshuaM58269326
 [github]:https://github.com/JoshuaMac40
