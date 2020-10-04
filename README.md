@@ -58,17 +58,14 @@
 
 
 
-  <summary>:zap: GitHub Stats</summary>
+  ### Github Status:
 
 <img align="left" alt="Joshua Git Stats" src="https://github-readme-stats.joshuamac40.vercel.app/api?username=JoshuaMac40&show_icons=true&theme=tokyonight"/>
----------
 
-
---------
 <br />
 <br />
 <br />
- <summary>:zap: Language Card</summary>
+### Language Card:
 
 <img align= "left" alt="language card" src="https://github-readme-stats.joshuamac40.vercel.app/api/top-langs/?username=JoshuaMac40&langs_count=8)](https://github.com/JoshuaMac40/github-readme-stats"/>
 
