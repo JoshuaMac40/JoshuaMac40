@@ -58,16 +58,14 @@
 
 
 
-  ### Github Status:
+  
 
 <img align="left" alt="Joshua Git Stats" src="https://github-readme-stats.joshuamac40.vercel.app/api?username=JoshuaMac40&show_icons=true&theme=tokyonight"/>
 
-<br />
-<br />
-<br />
-### Language Card:
 
-<img align= "left" alt="language card" src="https://github-readme-stats.joshuamac40.vercel.app/api/top-langs/?username=JoshuaMac40&langs_count=8)](https://github.com/JoshuaMac40/github-readme-stats"/>
+
+
+<img align= "left" alt="language card" src="https://github-readme-stats.joshuamac40.vercel.app/api/top-langs/?username=JoshuaMac40&layout=compact)](https://github.com/JoshuaMac40/github-readme-stats"/>
 
 [twitter]:https://twitter.com/JoshuaM58269326
 [github]:https://github.com/JoshuaMac40
