@@ -63,7 +63,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.joshuamac40.vercel.app/api?username=JoshuaMac40&show_icons=true&hide_border=true" />
 
 </details>
-
+![Joshua Mac Github Status](https://github-readme-stats.joshuamac40.vercel.app/api?username=JoshuaMac40&show_icons=true&theme=tokyonight)
 
 [twitter]:https://twitter.com/JoshuaM58269326
 [github]:https://github.com/JoshuaMac40
