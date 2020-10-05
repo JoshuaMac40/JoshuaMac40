@@ -2,7 +2,7 @@
 
 [![Facebook URL](https://img.shields.io/twitter/url?color=%231877F2&label=Joshua%20Mac&logo=Facebook&logoColor=%231877F2&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fjoshuaronaldo.messi%2F)](https://www.facebook.com/joshuaronaldo.messi/)
 [![Instagram URL](https://img.shields.io/twitter/url?color=%23E4405F&label=Joshua%20Mac&logo=instagram&logoColor=%23E4405F&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fjoshua_mac_%2F)](https://www.instagram.com/joshua_mac_/)
-[![Quora URL](![Twitter URL](https://img.shields.io/twitter/url?label=Joshua%20Mac%20&logo=quora&logoColor=%23B92B27&style=for-the-badge&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FJoshua-Mac-1%2F))](https://www.quora.com/profile/Joshua-Mac-1/)
+[![Quora URL](https://img.shields.io/twitter/url?label=Joshua%20Mac%20&logo=quora&logoColor=%23B92B27&style=for-the-badge&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FJoshua-Mac-1%2F)](https://www.quora.com/profile/Joshua-Mac-1/)
 
 
 
